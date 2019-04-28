@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         test_sqlite_jdbc.main();
+        test_threads.main(new String[]{});
     }
 }
