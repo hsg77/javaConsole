@@ -11,6 +11,9 @@ public class test_footPoint {
          System.out.println("x="+fp.x+",y="+fp.y);   //x=10.0,y=0.0
          System.out.println("  距离="+getDistancePoineToLine_planeCoord(point,pnt1,pnt2));
          System.out.println("hw距离="+getDistanceByPointToLine_hw(point,pnt1,pnt2));
+         //x=10.0,y=0.0
+         //  距离=5.0
+         //hw距离=5.0
 
          point=getNewCoordinate(10,5);
          pnt1=getNewCoordinate(0,-1);
@@ -20,6 +23,10 @@ public class test_footPoint {
          System.out.println("x="+fp.x+",y="+fp.y);  //x=0.0,y=5.0
          System.out.println("  距离="+getDistancePoineToLine_planeCoord(point,pnt1,pnt2));
          System.out.println("hw距离="+getDistanceByPointToLine_hw(point,pnt1,pnt2));
+         //x=0.0,y=5.0
+         //  距离=10.0
+         //hw距离=10.0
+
 
          point=getNewCoordinate(10,10);
          pnt1=getNewCoordinate(0,10);
@@ -29,6 +36,9 @@ public class test_footPoint {
          System.out.println("x="+fp.x+",y="+fp.y);  //x=5.0,y=5.0
          System.out.println("  距离="+getDistancePoineToLine_planeCoord(point,pnt1,pnt2));
          System.out.println("hw距离="+getDistanceByPointToLine_hw(point,pnt1,pnt2));
+         //x=5.0,y=5.0
+         //  距离=7.071067811865475
+         //hw距离=7.071067811865475
      }
     //点到直线的距离
     public static double getDistanceByPointToLine_hw(Coordinate point, Coordinate pnt1, Coordinate pnt2)
