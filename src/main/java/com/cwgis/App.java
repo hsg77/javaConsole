@@ -17,7 +17,8 @@ public class App
         //testInsertPointCopy.main();  //OK
         //test_sqlite_jdbc.main();     //OK
         //test_threads.main(new String[]{});   //OK
-        test_proj4j_coorTrans.main();
+        //test_proj4j_coorTrans.main();   //OK
+        test_footPoint.main();
     }
 
 
