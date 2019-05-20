@@ -103,6 +103,7 @@ public class test_footPoint {
             this.y=y;
         }
     }
+    //注意：必须先有外部类的对象才能生成内部类的对象，因为内部类需要访问外部类中的成员变量，成员变量必须实例化才有意义。
     public static Coordinate getNewCoordinate(double x,double y)
     {   //调用内部类的方法
         test_footPoint fp=new test_footPoint();
