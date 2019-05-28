@@ -12,6 +12,7 @@ import java.util.HashSet;
 public class App 
 {
     public static void main( String[] args )
+            throws Exception
     {
         System.out.println( "Hello World!" );
         //testInsertPointCopy.main();  //OK
@@ -19,7 +20,8 @@ public class App
         //test_threads.main(new String[]{});   //OK
         //test_proj4j_coorTrans.main();   //OK
         //test_footPoint.main();
-        testScale();
+        //testScale();
+        test_mysql_jdbc.main();
     }
     public static void testScale()
     {
