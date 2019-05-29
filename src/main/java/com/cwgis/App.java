@@ -21,7 +21,8 @@ public class App
         //test_proj4j_coorTrans.main();   //OK
         //test_footPoint.main();
         //testScale();
-        test_mysql_jdbc.main();
+        //test_mysql_jdbc.main();
+        test_mongodb.main();
     }
     public static void testScale()
     {
