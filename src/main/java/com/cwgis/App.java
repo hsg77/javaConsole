@@ -22,7 +22,8 @@ public class App
         //test_footPoint.main();
         //testScale();
         //test_mysql_jdbc.main();
-        test_mongodb.main();
+        //test_mongodb.main();
+        test_kafka.main();
     }
     public static void testScale()
     {
