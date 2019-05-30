@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bfb3e4e-7657-4815-bf07-711a628b146d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cwgis/test_kafka.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/cwgis/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cwgis/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cwgis/test_kafka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cwgis/test_kafka.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,91 +26,42 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="30" />
+          <entry key="class" value="2" />
+          <entry key="java" value="37" />
           <entry key="md" value="6" />
           <entry key="txt" value="2" />
-          <entry key="xml" value="9" />
+          <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="30" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="37" />
           <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="XML" value="9" />
+          <entry key="XML" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5934" />
+          <entry key="java" value="6111" />
           <entry key="md" value="197" />
-          <entry key="txt" value="372" />
+          <entry key="txt" value="386" />
           <entry key="xml" value="291" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5934" />
+          <entry key="JAVA" value="6111" />
           <entry key="Markdown" value="197" />
-          <entry key="PLAIN_TEXT" value="372" />
+          <entry key="PLAIN_TEXT" value="386" />
           <entry key="XML" value="291" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
-              <folding>
-                <element signature="n#pluginManagement#0;n#build#0;n#project#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cwgis/test_kafka.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#producer#0;class#test_kafka#0" />
-                <element signature="e#471#527#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1952">
-              <caret line="484" column="32" selection-start-line="484" selection-start-column="26" selection-end-line="484" selection-end-column="32" />
-              <folding>
-                <element signature="method#KafkaConsumer#6;class#KafkaConsumer#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cwgis/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -141,8 +91,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/cwgis/test_mysql_jdbc.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/cwgis/test_mongodb.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cwgis/App.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cwgis/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cwgis/test_kafka.java" />
       </list>
     </option>
@@ -243,7 +193,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559187817065" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559214571558" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -290,7 +240,7 @@
       <workItem from="1558339084166" duration="4619000" />
       <workItem from="1558697952119" duration="1489000" />
       <workItem from="1559010416933" duration="4920000" />
-      <workItem from="1559098308501" duration="10330000" />
+      <workItem from="1559098308501" duration="18709000" />
     </task>
     <task id="LOCAL-00001" summary="添加sqlite的用法">
       <created>1556422667016</created>
@@ -418,11 +368,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559102247453</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="测试kafka 2.1.0版本 java基本操作">
+      <created>1559187854196</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1559187854196</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39560000" />
+    <option name="totallyTimeSpent" value="47939000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -435,9 +392,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1916" y="-4" width="1448" height="868" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2213467" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20057307" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -446,7 +402,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39892185" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.12938005" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -464,7 +420,7 @@
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.16905445" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.09455588" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,7 +444,8 @@
     <MESSAGE value="测试mysql jdbc连接和获取数据的方法" />
     <MESSAGE value="测试mysql数据库的获取，添加，修改，删除数据，以及汉字乱码的处理" />
     <MESSAGE value="测试mongodb java基本操作" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试mongodb java基本操作" />
+    <MESSAGE value="测试kafka 2.1.0版本 java基本操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试kafka 2.1.0版本 java基本操作" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cwgis/AppTest.java">
@@ -537,16 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cwgis/test_sqlite_jdbc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/cwgis/apps/jdk/src.zip!/java/text/DateFormat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2081">
@@ -561,27 +508,6 @@
             <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="34" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cwgis/test_mysql_jdbc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="75" column="28" lean-forward="true" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cwgis/test_mongodb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="87" column="45" selection-start-line="87" selection-start-column="45" selection-end-line="87" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#getConnectByCred#0;class#mongodbUtil#0;class#test_mongodb#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -602,9 +528,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/cwgis/apps/jdk/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3558">
+          <caret line="265" column="28" selection-start-line="265" selection-start-column="18" selection-end-line="265" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cwgis/test_sqlite_jdbc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/3.0.4/mongo-java-driver-3.0.4.jar!/com/mongodb/Mongo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="131" column="28" selection-start-line="131" selection-start-column="15" selection-end-line="131" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/3.0.4/mongo-java-driver-3.0.4.jar!/com/mongodb/MongoClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="70" column="10" lean-forward="true" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="13" />
+          <folding>
+            <element signature="e#1450#1451#0" expanded="true" />
+            <element signature="e#1501#1502#0" expanded="true" />
+            <element signature="e#2374#2375#0" expanded="true" />
+            <element signature="e#2411#2412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cwgis/test_mongodb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="94" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="94" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#test_mongodb#0" />
+            <element signature="method#writeMetadatas#0;class#test_mongodb#0" />
+            <element signature="method#getConnectByCred#0;class#mongodbUtil#0;class#test_mongodb#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cwgis/test_mysql_jdbc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1255">
+          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
+        <state relative-caret-position="216">
           <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
           <folding>
             <element signature="n#pluginManagement#0;n#build#0;n#project#0;n#!!top" />
@@ -614,8 +600,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cwgis/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="31">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -624,12 +610,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cwgis/test_kafka.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="163">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#producer#0;class#test_kafka#0" />
-            <element signature="e#471#527#0" />
+            <element signature="class#ProducerThread#0;class#test_kafka#0" />
+            <element signature="method#ProducerThread#0;class#ProducerThread#0;class#test_kafka#0" />
+            <element signature="class#ConsumerThread#0;class#test_kafka#0" />
+            <element signature="method#ConsumerThread#0;class#ConsumerThread#0;class#test_kafka#0" />
+            <element signature="method#buildKafkaProperty#0;class#ConsumerThread#0;class#test_kafka#0" />
+            <element signature="method#run#0;class#ConsumerThread#0;class#test_kafka#0" />
+            <element signature="class#ConsumerGroup#0;class#test_kafka#0" />
+            <element signature="e#8180#8196#0" expanded="true" />
+            <element signature="e#9504#9505#0" expanded="true" />
+            <element signature="e#9564#9565#0" expanded="true" />
           </folding>
         </state>
       </provider>

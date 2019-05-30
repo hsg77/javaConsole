@@ -24,6 +24,9 @@ public class App
         //test_mysql_jdbc.main();
         //test_mongodb.main();
         test_kafka.main();
+        test_kafka kfk=new test_kafka();
+        kfk.test();
+        kfk.testThreadPool();
     }
     public static void testScale()
     {
