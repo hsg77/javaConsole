@@ -1,5 +1,6 @@
 package com.cwgis;
 
+import com.cwgis.gs.GeoServerUtil;
 import com.google.common.collect.Sets;
 
 import java.util.Arrays;
@@ -23,10 +24,18 @@ public class App
         //testScale();
         //test_mysql_jdbc.main();
         //test_mongodb.main();
-        test_kafka.main();
-        test_kafka kfk=new test_kafka();
-        kfk.test();
-        kfk.testThreadPool();
+
+        //test_kafka.main();
+        //test_kafka kfk=new test_kafka();
+        //kfk.test();
+        //kfk.testThreadPool();
+        //
+        //GeoServerUtil.unPublishShpAndReloadStore("geowave","hash8_tk_2");
+        //System.out.println("remove layer OK!");
+        //GeoServerUtil.createWorkspace("hsg");
+        //GeoServerUtil.removeDatastore("geowave","hash8_tk_2");
+        GeoServerUtil.createDatastore("geowave","hash8_tk_2","hash8_tk_2","EPSG:4326","DistributedRender-Polygon");
+        System.out.println("OK!");
     }
     public static void testScale()
     {
